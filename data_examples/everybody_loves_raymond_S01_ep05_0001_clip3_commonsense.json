@@ -1,0 +1,509 @@
+[
+    {
+        "tid": 475,
+        "name": "everybody_loves_raymond_S01_ep05_0001_clip3",
+        "labelData": [
+          {
+            "label": "character attributes",
+            "frames": [
+              {
+                "attr": {
+                  "character number": "1",
+                  "gender": "male",
+                  "age": "adult",
+                  "hair length": "short",
+                  "wear a hat": "no",
+                  "sleeve length": "long",
+                  "types of lower body clothing": "pant",
+                  "bottom clothes lengthr": "long",
+                  "wear glasses": "no",
+                  "wear a tie": "yes",
+                  "types of upper body clothing": "coat",
+                  "up red": "no",
+                  "up yellow": "no",
+                  "up blue": "no",
+                  "up green": "no",
+                  "up purple": "no",
+                  "up black": "no",
+                  "up gray": "yes",
+                  "up white": "no",
+                  "up brown": "yes",
+                  "down black": "yes",
+                  "down white": "no",
+                  "down red": "no",
+                  "down purple": "no",
+                  "down yellow": "no",
+                  "down gray": "no",
+                  "down blue": "no",
+                  "down green": "no",
+                  "down brown": "no"
+                },
+                "frame": 0
+              }
+            ]
+          },
+          {
+            "label": "character attributes",
+            "frames": [
+              {
+                "attr": {
+                  "character number": "2",
+                  "gender": "female",
+                  "age": "adult",
+                  "hair length": "short",
+                  "wear a hat": "no",
+                  "sleeve length": "long",
+                  "types of lower body clothing": "unknown",
+                  "bottom clothes lengthr": "unknown",
+                  "wear glasses": "no",
+                  "wear a tie": "no",
+                  "types of upper body clothing": "blouse",
+                  "up red": "yes",
+                  "up yellow": "yes",
+                  "up blue": "no",
+                  "up green": "no",
+                  "up purple": "no",
+                  "up black": "no",
+                  "up gray": "yes",
+                  "up white": "no",
+                  "up brown": "no",
+                  "down black": "unknown",
+                  "down white": "unknown",
+                  "down red": "unknown",
+                  "down purple": "unknown",
+                  "down yellow": "unknown",
+                  "down gray": "unknown",
+                  "down blue": "unknown",
+                  "down green": "unknown",
+                  "down brown": "unknown"
+                },
+                "frame": 0
+              }
+            ]
+          },
+          {
+            "label": "action",
+            "frames": [
+              {
+                "attr": {
+                  "character number": "2",
+                  "action_verb": "speak",
+                  "action_noun": "nothing"
+                },
+                "frame": 0
+              },
+              {
+                "attr": {
+                  "character number": "2",
+                  "action_verb": "speak",
+                  "action_noun": "nothing"
+                },
+                "frame": 10
+              }
+            ]
+          },
+          {
+            "attr": {},
+            "type": "track",
+            "group": 0,
+            "label": "action",
+            "frames": [
+              {
+                "attr": {
+                  "character number": "2",
+                  "action_verb": "walk",
+                  "action_noun": "nothing"
+                },
+                "frame": 1
+              },
+              {
+                "attr": {
+                  "character number": "2",
+                  "action_verb": "walk",
+                  "action_noun": "nothing"
+                },
+                "frame": 24
+              }
+            ]
+          },
+          {
+            "label": "action",
+            "frames": [
+              {
+                "attr": {
+                  "character number": "2",
+                  "action_verb": "bend over",
+                  "action_noun": "nothing"
+                },
+                "frame": 5
+              },
+              {
+                "attr": {
+                  "character number": "2",
+                  "action_verb": "bend over",
+                  "action_noun": "nothing"
+                },
+                "frame": 8
+              }
+            ]
+          },
+          {
+            "label": "action",
+            "frames": [
+              {
+                "attr": {
+                  "character number": "2",
+                  "action_verb": "stand up",
+                  "action_noun": "nothing"
+                },
+                "frame": 9
+              },
+              {
+                "attr": {
+                  "character number": "2",
+                  "action_verb": "stand up",
+                  "action_noun": "nothing"
+                },
+                "frame": 11
+              }
+            ]
+          },
+          {
+            "label": "action",
+            "frames": [
+              {
+                "attr": {
+                  "character number": "2",
+                  "action_verb": "hold",
+                  "action_noun": "kitchen utensils"
+                },
+                "frame": 13
+              },
+              {
+                "attr": {
+                  "character number": "2",
+                  "action_verb": "hold",
+                  "action_noun": "kitchen utensils"
+                },
+                "frame": 27
+              }
+            ]
+          },
+          {
+            "label": "action",
+            "frames": [
+              {
+                "attr": {
+                  "character number": "2",
+                  "action_verb": "move",
+                  "action_noun": "bowl"
+                },
+                "frame": 22
+              },
+              {
+                "attr": {
+                  "character number": "2",
+                  "action_verb": "move",
+                  "action_noun": "bowl"
+                },
+                "frame": 23
+              }
+            ]
+          },
+          {
+            "label": "action",
+            "frames": [
+              {
+                "attr": {
+                  "character number": "2",
+                  "action_verb": "put down",
+                  "action_noun": "kitchen utensils"
+                },
+                "frame": 28
+              },
+              {
+                "attr": {
+                  "character number": "2",
+                  "action_verb": "put down",
+                  "action_noun": "kitchen utensils"
+                },
+                "frame": 30
+              }
+            ]
+          },
+          {
+            "label": "action",
+            "frames": [
+              {
+                "attr": {
+                  "character number": "2",
+                  "action_verb": "turn around",
+                  "action_noun": "nothing"
+                },
+                "frame": 9
+              },
+              {
+                "attr": {
+                  "character number": "2",
+                  "action_verb": "turn around",
+                  "action_noun": "nothing"
+                },
+                "frame": 24
+              }
+            ]
+          },
+          {
+            "label": "action",
+            "frames": [
+              {
+                "attr": {
+                  "character number": "2",
+                  "action_verb": "cook",
+                  "action_noun": "nothing"
+                },
+                "frame": 25
+              },
+              {
+                "attr": {
+                  "character number": "2",
+                  "action_verb": "cook",
+                  "action_noun": "nothing"
+                },
+                "frame": 119
+              }
+            ]
+          },
+          {
+            "label": "action",
+            "frames": [
+              {
+                "attr": {
+                  "character number": "2",
+                  "action_verb": "speak",
+                  "action_noun": "nothing"
+                },
+                "frame": 22
+              },
+              {
+                "attr": {
+                  "character number": "2",
+                  "action_verb": "speak",
+                  "action_noun": "nothing"
+                },
+                "frame": 39
+              }
+            ]
+          },
+          {
+            "label": "scene",
+            "frames": [
+              {
+                "attr": {
+                  "character number": "2",
+                  "scene": "Kitchen"
+                },
+                "frame": 0
+              },
+              {
+                "attr": {
+                  "character number": "2",
+                  "scene": "Kitchen"
+                },
+                "frame": 119
+              }
+            ]
+          },
+          {
+            "label": "sentiment",
+            "frames": [
+              {
+                "attr": {
+                  "character number": "2",
+                  "sentiment": "neutral"
+                },
+                "frame": 0
+              },
+              {
+                "attr": {
+                  "character number": "2",
+                  "sentiment": "neutral"
+                },
+                "frame": 11
+              }
+            ]
+          },
+          {
+            "label": "sentiment",
+            "frames": [
+              {
+                "attr": {
+                  "character number": "2",
+                  "sentiment": "neutral"
+                },
+                "frame": 18
+              },
+              {
+                "attr": {
+                  "character number": "2",
+                  "sentiment": "neutral"
+                },
+                "frame": 64
+              }
+            ]
+          },
+          {
+            "label": "sentiment",
+            "frames": [
+              {
+                "attr": {
+                  "character number": "2",
+                  "sentiment": "happy"
+                },
+                "frame": 65
+              },
+              {
+                "attr": {
+                  "character number": "2",
+                  "sentiment": "happy"
+                },
+                "frame": 89
+              }
+            ]
+          },
+          {
+            "label": "sentiment",
+            "frames": [
+              {
+                "attr": {
+                  "character number": "2",
+                  "sentiment": "neutral"
+                },
+                "frame": 90
+              }
+            ]
+          }
+        ],
+        "mapping": [
+          1,
+          6,
+          12,
+          18,
+          23,
+          29,
+          35,
+          41,
+          46,
+          52,
+          58,
+          64,
+          69,
+          75,
+          81,
+          87,
+          92,
+          98,
+          104,
+          110,
+          115,
+          121,
+          127,
+          133,
+          138,
+          144,
+          150,
+          156,
+          161,
+          167,
+          173,
+          179,
+          184,
+          190,
+          196,
+          202,
+          207,
+          213,
+          219,
+          225,
+          230,
+          236,
+          242,
+          248,
+          253,
+          259,
+          265,
+          271,
+          276,
+          282,
+          288,
+          294,
+          299,
+          305,
+          311,
+          317,
+          322,
+          328,
+          334,
+          340,
+          345,
+          351,
+          357,
+          363,
+          368,
+          374,
+          380,
+          386,
+          391,
+          397,
+          403,
+          408,
+          414,
+          420,
+          426,
+          431,
+          437,
+          443,
+          449,
+          454,
+          460,
+          466,
+          472,
+          477,
+          483,
+          489,
+          495,
+          500,
+          506,
+          512,
+          518,
+          523,
+          529,
+          535,
+          541,
+          546,
+          552,
+          558,
+          564,
+          569,
+          575,
+          581,
+          587,
+          592,
+          598,
+          604,
+          610,
+          615,
+          621,
+          627,
+          633,
+          638,
+          644,
+          650,
+          656,
+          661,
+          667,
+          673,
+          679,
+          684
+        ]
+      }
+]

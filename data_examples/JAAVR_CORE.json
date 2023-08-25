@@ -1,0 +1,17 @@
+{
+       "JAAVR": {
+        "person 1": {
+            "discription 1": [
+                "A man with a black pant is wiping his face with a towel",
+                [
+                    "pick up",
+                    "hold"
+                ],
+                [
+                    "wash",
+                    "face"
+                ]
+            ]
+        }
+    }
+}

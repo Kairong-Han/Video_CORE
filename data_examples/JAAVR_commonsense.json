@@ -1,0 +1,695 @@
+[
+  {
+    "tid": 819,
+    "name": "JAAVR",
+    "labelData": [
+      {
+        "label": "character attributes",
+        "frames": [
+          {
+            "attr": {
+              "character number": "1",
+              "gender": "male",
+              "age": "adult",
+              "hair length": "short",
+              "wear a hat": "no",
+              "sleeve length": "short",
+              "types of lower body clothing": "pant",
+              "bottom clothes lengthr": "long",
+              "wear glasses": "no",
+              "wear a tie": "no",
+              "types of upper body clothing": "T-shirt",
+              "up red": "no",
+              "up yellow": "no",
+              "up blue": "no",
+              "up green": "no",
+              "up purple": "no",
+              "up black": "no",
+              "up gray": "yes",
+              "up white": "no",
+              "up brown": "no",
+              "down black": "yes",
+              "down white": "no",
+              "down red": "no",
+              "down purple": "no",
+              "down yellow": "no",
+              "down gray": "no",
+              "down blue": "no",
+              "down green": "no",
+              "down brown": "no"
+            },
+            "frame": 0
+          }
+        ]
+      },
+      {
+        "label": "action",
+        "frames": [
+          {
+            "attr": {
+              "character number": "1",
+              "action_verb": "get up",
+              "action_noun": "nothing"
+            },
+            "frame": 12
+          },
+          {
+            "attr": {
+              "character number": "1",
+              "action_verb": "get up",
+              "action_noun": "nothing"
+            },
+            "frame": 50
+          }
+        ]
+      },
+      {
+        "label": "action",
+        "frames": [
+          {
+            "attr": {
+              "character number": "1",
+              "action_verb": "walk",
+              "action_noun": "nothing"
+            },
+            "frame": 51
+          },
+          {
+            "attr": {
+              "character number": "1",
+              "action_verb": "walk",
+              "action_noun": "nothing"
+            },
+            "frame": 65
+          }
+        ]
+      },
+      {
+        "label": "action",
+        "frames": [
+          {
+            "attr": {
+              "character number": "1",
+              "action_verb": "turn around",
+              "action_noun": "nothing"
+            },
+            "frame": 61
+          },
+          {
+            "attr": {
+              "character number": "1",
+              "action_verb": "turn around",
+              "action_noun": "nothing"
+            },
+            "frame": 65
+          }
+        ]
+      },
+      {
+        "label": "action",
+        "frames": [
+          {
+            "attr": {
+              "character number": "1",
+              "action_verb": "take sth from sb/sw",
+              "action_noun": "bottle"
+            },
+            "frame": 67
+          },
+          {
+            "attr": {
+              "character number": "1",
+              "action_verb": "take sth from sb/sw",
+              "action_noun": "bottle"
+            },
+            "frame": 76
+          }
+        ]
+      },
+      {
+        "label": "action",
+        "frames": [
+          {
+            "attr": {
+              "character number": "1",
+              "action_verb": "hold",
+              "action_noun": "bottle"
+            },
+            "frame": 77
+          },
+          {
+            "attr": {
+              "character number": "1",
+              "action_verb": "hold",
+              "action_noun": "bottle"
+            },
+            "frame": 147
+          }
+        ]
+      },
+      {
+        "label": "action",
+        "frames": [
+          {
+            "attr": {
+              "character number": "1",
+              "action_verb": "open",
+              "action_noun": "bottle"
+            },
+            "frame": 83
+          },
+          {
+            "attr": {
+              "character number": "1",
+              "action_verb": "open",
+              "action_noun": "bottle"
+            },
+            "frame": 98
+          }
+        ]
+      },
+      {
+        "label": "action",
+        "frames": [
+          {
+            "attr": {
+              "character number": "1",
+              "action_verb": "hold",
+              "action_noun": "lid"
+            },
+            "frame": 99
+          },
+          {
+            "attr": {
+              "character number": "1",
+              "action_verb": "hold",
+              "action_noun": "lid"
+            },
+            "frame": 116
+          }
+        ]
+      },
+      {
+        "label": "action",
+        "frames": [
+          {
+            "attr": {
+              "character number": "1",
+              "action_verb": "eat",
+              "action_noun": "food"
+            },
+            "frame": 100
+          },
+          {
+            "attr": {
+              "character number": "1",
+              "action_verb": "eat",
+              "action_noun": "food"
+            },
+            "frame": 110
+          }
+        ]
+      },
+      {
+        "label": "action",
+        "frames": [
+          {
+            "attr": {
+              "character number": "1",
+              "action_verb": "close",
+              "action_noun": "bottle"
+            },
+            "frame": 112
+          },
+          {
+            "attr": {
+              "character number": "1",
+              "action_verb": "close",
+              "action_noun": "bottle"
+            },
+            "frame": 116
+          }
+        ]
+      },
+      {
+        "label": "action",
+        "frames": [
+          {
+            "attr": {
+              "character number": "1",
+              "action_verb": "pick up",
+              "action_noun": "cup"
+            },
+            "frame": 122
+          },
+          {
+            "attr": {
+              "character number": "1",
+              "action_verb": "pick up",
+              "action_noun": "cup"
+            },
+            "frame": 123
+          }
+        ]
+      },
+      {
+        "label": "action",
+        "frames": [
+          {
+            "attr": {
+              "character number": "1",
+              "action_verb": "hold",
+              "action_noun": "cup"
+            },
+            "frame": 124
+          },
+          {
+            "attr": {
+              "character number": "1",
+              "action_verb": "hold",
+              "action_noun": "cup"
+            },
+            "frame": 139
+          }
+        ]
+      },
+      {
+        "label": "action",
+        "frames": [
+          {
+            "attr": {
+              "character number": "1",
+              "action_verb": "drink",
+              "action_noun": "drink"
+            },
+            "frame": 127
+          },
+          {
+            "attr": {
+              "character number": "1",
+              "action_verb": "drink",
+              "action_noun": "drink"
+            },
+            "frame": 137
+          }
+        ]
+      },
+      {
+        "label": "action",
+        "frames": [
+          {
+            "attr": {
+              "character number": "1",
+              "action_verb": "put down",
+              "action_noun": "cup"
+            },
+            "frame": 140
+          },
+          {
+            "attr": {
+              "character number": "1",
+              "action_verb": "put down",
+              "action_noun": "cup"
+            },
+            "frame": 144
+          }
+        ]
+      },
+      {
+        "label": "action",
+        "frames": [
+          {
+            "attr": {
+              "character number": "1",
+              "action_verb": "put sth into/on sw",
+              "action_noun": "bottle"
+            },
+            "frame": 148
+          },
+          {
+            "attr": {
+              "character number": "1",
+              "action_verb": "put sth into/on sw",
+              "action_noun": "bottle"
+            },
+            "frame": 155
+          }
+        ]
+      },
+      {
+        "label": "action",
+        "frames": [
+          {
+            "attr": {
+              "character number": "1",
+              "action_verb": "open",
+              "action_noun": "switch"
+            },
+            "frame": 156
+          },
+          {
+            "attr": {
+              "character number": "1",
+              "action_verb": "open",
+              "action_noun": "switch"
+            },
+            "frame": 158
+          }
+        ]
+      },
+      {
+        "label": "action",
+        "frames": [
+          {
+            "attr": {
+              "character number": "1",
+              "action_verb": "wash",
+              "action_noun": "face"
+            },
+            "frame": 171
+          },
+          {
+            "attr": {
+              "character number": "1",
+              "action_verb": "wash",
+              "action_noun": "face"
+            },
+            "frame": 189
+          }
+        ]
+      },
+      {
+        "attr": {},
+        "type": "track",
+        "group": 0,
+        "label": "action",
+        "frames": [
+          {
+            "attr": {
+              "character number": "1",
+              "action_verb": "close",
+              "action_noun": "switch"
+            },
+            "frame": 190
+          },
+          {
+            "attr": {
+              "character number": "1",
+              "action_verb": "close",
+              "action_noun": "switch"
+            },
+            "frame": 194
+          }
+        ]
+      },
+      {
+        "attr": {},
+        "type": "track",
+        "group": 0,
+        "label": "action",
+        "frames": [
+          {
+            "attr": {
+              "character number": "1",
+              "action_verb": "bend over",
+              "action_noun": "nothing"
+            },
+            "frame": 156
+          },
+          {
+            "attr": {
+              "character number": "1",
+              "action_verb": "bend over",
+              "action_noun": "nothing"
+            },
+            "frame": 186
+          }
+        ]
+      },
+      {
+        "label": "action",
+        "frames": [
+          {
+            "attr": {
+              "character number": "1",
+              "action_verb": "stand up",
+              "action_noun": "nothing"
+            },
+            "frame": 187
+          },
+          {
+            "attr": {
+              "character number": "1",
+              "action_verb": "stand up",
+              "action_noun": "nothing"
+            },
+            "frame": 193
+          }
+        ]
+      },
+      {
+        "label": "scene",
+        "frames": [
+          {
+            "attr": {
+              "character number": "1",
+              "scene": "Bathroom"
+            },
+            "frame": 0
+          },
+          {
+            "attr": {
+              "character number": "1",
+              "scene": "Bathroom"
+            },
+            "frame": 198
+          }
+        ]
+      },
+      {
+        "label": "sentiment",
+        "frames": [
+          {
+            "attr": {
+              "character number": "1",
+              "sentiment": "neutral"
+            },
+            "frame": 0
+          },
+          {
+            "attr": {
+              "character number": "1",
+              "sentiment": "neutral"
+            },
+            "frame": 198
+          }
+        ]
+      }
+    ],
+    "mapping": [
+      1,
+      8,
+      15,
+      22,
+      29,
+      37,
+      44,
+      51,
+      58,
+      65,
+      73,
+      80,
+      87,
+      94,
+      101,
+      109,
+      116,
+      123,
+      130,
+      137,
+      144,
+      152,
+      159,
+      166,
+      173,
+      180,
+      188,
+      195,
+      202,
+      209,
+      216,
+      224,
+      231,
+      238,
+      245,
+      252,
+      259,
+      267,
+      274,
+      281,
+      288,
+      295,
+      303,
+      310,
+      317,
+      324,
+      331,
+      339,
+      346,
+      353,
+      360,
+      367,
+      374,
+      382,
+      389,
+      396,
+      403,
+      410,
+      418,
+      425,
+      432,
+      439,
+      446,
+      454,
+      461,
+      468,
+      475,
+      482,
+      489,
+      497,
+      504,
+      511,
+      518,
+      525,
+      533,
+      540,
+      547,
+      554,
+      561,
+      569,
+      576,
+      583,
+      590,
+      597,
+      604,
+      612,
+      619,
+      626,
+      633,
+      640,
+      648,
+      655,
+      662,
+      669,
+      676,
+      683,
+      691,
+      698,
+      705,
+      712,
+      719,
+      727,
+      734,
+      741,
+      748,
+      755,
+      763,
+      770,
+      777,
+      784,
+      791,
+      798,
+      806,
+      813,
+      820,
+      827,
+      834,
+      842,
+      849,
+      856,
+      863,
+      870,
+      878,
+      885,
+      892,
+      899,
+      906,
+      913,
+      921,
+      928,
+      935,
+      942,
+      949,
+      957,
+      964,
+      971,
+      978,
+      985,
+      993,
+      1000,
+      1007,
+      1014,
+      1021,
+      1028,
+      1036,
+      1043,
+      1050,
+      1057,
+      1064,
+      1072,
+      1079,
+      1086,
+      1093,
+      1100,
+      1108,
+      1115,
+      1122,
+      1129,
+      1136,
+      1143,
+      1151,
+      1158,
+      1165,
+      1172,
+      1179,
+      1187,
+      1194,
+      1201,
+      1208,
+      1215,
+      1222,
+      1230,
+      1237,
+      1244,
+      1251,
+      1258,
+      1266,
+      1273,
+      1280,
+      1287,
+      1294,
+      1302,
+      1309,
+      1316,
+      1323,
+      1330,
+      1337,
+      1345,
+      1352,
+      1359,
+      1366,
+      1373,
+      1381,
+      1388,
+      1395,
+      1402,
+      1409,
+      1417,
+      1424
+    ],
+    "param": {
+      "duration": "39.672967",
+      "nb_frames": "1189"
+    }
+  }
+]
