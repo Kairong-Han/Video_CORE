@@ -18,7 +18,7 @@ Retroductive reasoning aims at proposing the most probable hypotheses to elucida
 ## File Organization Structure
 
 - Videos
-    - (All videos item by item.)
+    - (All video files item by item.)
 
 - CORE_Annotations
     - TrainFile.json
