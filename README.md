@@ -21,14 +21,14 @@ Retroductive reasoning aims at proposing the most probable hypotheses to elucida
     - (All video files item by item.)
 
 - CORE_Annotations
-    - TrainFile.json
-    - ValFile.json
-    - TestFile.json
+    - TrainFile_CORE.json
+    - ValFile_CORE.json
+    - TestFile_CORE.json
 
 - Commonsense_Annotations
-    - TrainFile.json
-    - ValFile.json
-    - TestFile.json
+    - TrainFile_commonsense.json
+    - ValFile_commonsense.json
+    - TestFile_commonsense.json
 
 ## Annotation File Format
 
