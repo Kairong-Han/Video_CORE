@@ -60,7 +60,7 @@ There are two types of the annotations included in our dataset, including the CO
 
 - The file format of the commonsense knowledge annotations:
 
-(Because the annotations are lengthy, we are not displaying them in the README but adding comments in the commonsense knowledge file, RGHT9_commonsense_annotation.json.)
+(Because the annotations are lengthy, we are not displaying them in the README but adding comments in the commonsense knowledge file, ./data_examples/RGHT9_commonsense_annotation.json.)
 
 
 ## Statistics of Dataset Annotations
