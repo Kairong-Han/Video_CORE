@@ -1,5 +1,5 @@
 Code and Dataset for our paper 
-"Cross-modal Observation Retrodiction Reasoning".
+"Cross-modal Observation Hypothesis Inference".
 
 ## Running Code
 
